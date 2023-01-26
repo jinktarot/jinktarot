@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm JinkTarot</h1>
-<h3 align="center">A passionate developer from Thailand</h3>
-
-### interested in computers and technology always ready to learn new things
+<h2 align="center">A passionate developer from Thailand</h2>
+<h3 align="center">Interested in computers and technology always ready to learn new things</h3>
 
 <div align="center">
   <img height="200" src="https://media.tenor.com/o6aj3W2I7rMAAAAC/dev.gif"  />
