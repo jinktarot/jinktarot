@@ -3,7 +3,7 @@
 <h3 align="center">Interested in computers and technology always ready to learn new things</h3>
 
 <div align="center">
-  <img height="200" src="https://media.tenor.com/o6aj3W2I7rMAAAAC/dev.gif"  />
+  <img height="200" src="https://media.tenor.com/o6aj3W2I7rMAAAAC/dev.gif" />
 </div>
 
 <div align="center">
