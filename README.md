@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I currently work as a .NET Developer at financial company
 
 * 🌍  I'm based in Bangkok, Thailand
-* ✉️  You can contact me at [jittkaorn.srisin@gmail.com](mailto:jittkaorn.srisin@gmail.com)
+* ✉️  You can contact me at [jittakorn.srisin@gmail.com](mailto:jittakorn.srisin@gmail.com)
 * Interested in computers and technology always ready to learn new things
   
 ### Skills
